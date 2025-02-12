@@ -1,0 +1,1 @@
+这是一个教务系统的课设，主要使用简单的servlet和jsp实现，Spring MVC框架，技术栈：C3p0+dbutils+beanutils，以后考虑用springboot和vue实现
